@@ -8,3 +8,7 @@ h1{
 	width: 50%;
 	margin: 0 auto;
 }
+
+.center .center{
+	background-color: red;
+}
