@@ -11,6 +11,12 @@
 			se van a incluir los archivos junto con la carpeta
 			<hr>
 			esto también se ha agregado
+			<br>
+			<div class="center">
+				Esto es otro div
+			</div><!--end .center -->
+			<br>
+			<hr>
 		</div><!--end .center -->
 	</body>
 </html>
