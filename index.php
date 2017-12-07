@@ -12,9 +12,7 @@
 			<hr>
 			esto también se ha agregado
 			<br>
-			<div class="center">
-				Esto es otro div
-			</div><!--end .center -->
+			<div class="center">Esto es otro div</div><!--end .center -->
 			<br>
 			<hr>
 		</div><!--end .center -->
