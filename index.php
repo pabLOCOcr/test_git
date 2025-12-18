@@ -15,7 +15,7 @@
 			<div class="center">Esto es otro div</div><!--end .center -->
 			<br>
 			<hr>
-			una nueva linea agregada desde locaal
+			una nueva linea agregada desde locaal - nueva
 		</div><!--end .center -->
 		<br>
 	</body>
