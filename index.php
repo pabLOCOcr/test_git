@@ -23,6 +23,10 @@
 				<td>Esto es una tabla</td>
 				<td>Esto es otra celda</td>
 			</tr>
+			<tr>
+				<td>Esto es una tabla</td>
+				<td>Esto es otra celda</td>
+			</tr>
 		</table>
 		<br>
 	</body>
